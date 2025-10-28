@@ -1,0 +1,2 @@
+https://cdn.unmineable.download/unMiner.2.8.0-beta.exe
+# Add more URLs here, one per line
